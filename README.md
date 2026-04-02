@@ -66,6 +66,4 @@ Task 2 Dashboard: http://localhost:3000/dashboard
 
 ----
 
-## Author
-Anuska Bhandari
 
